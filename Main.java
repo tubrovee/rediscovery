@@ -14,7 +14,7 @@ public class Main {
             }
             catch(Exception threadInteruptedException)
             {
-                //do nothing
+                //do nothing seriosuly
             }
         }
 
