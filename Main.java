@@ -1,6 +1,4 @@
 package com.company;
-import  java.lang.Thread.*;
-
 import static java.lang.Thread.sleep;
 
 
@@ -14,7 +12,7 @@ public class Main {
             }
             catch(Exception threadInteruptedException)
             {
-                //do nothing seriosuly
+                //do nothing
             }
         }
 
