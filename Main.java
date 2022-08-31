@@ -17,8 +17,6 @@ public class Main {
         Hashtable<Integer,Employee> _empTable = new Hashtable();
         _empTable.put(1,emp);
 
-
-
         findMedianTwoArrays();
         System.out.println("the smallest is" + FindSecSmallestTheHardWay(myArray));
         int counter=0;
