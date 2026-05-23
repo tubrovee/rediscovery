@@ -1,0 +1,8 @@
+region            = "us-east-1"
+bucket_name       = "your-unique-bucket-name-1234"
+enable_versioning = true
+
+tags = {
+  Project   = "example"
+  ManagedBy = "Terraform"
+}
